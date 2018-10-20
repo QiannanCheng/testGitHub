@@ -48,6 +48,23 @@
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
 *****
 GitHub仓库内的图片显示：<br>
+![](https://github.com/QiannanCheng/testGitHub/blob/master/eclipse.jpg)
+*****
+给图片加上超链接(标志名称baidu可以随意，但是注意上下两行一定相同)：<br>
+[![baidu]](http://baidu.com)  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" <br>
+没有显示成功
+*****
+插入代码片段：我们需要在代码的上一行和下一行用```标记，要实现语法高亮那么只要在```之后加上你的编程语言即可（忽略大小写）
+```Java
+System.out.println("Qiannan Cheng")
+```
+```python
+for i in range(0,5):
+    print("111")
+```
+*****
+
 
 
 
